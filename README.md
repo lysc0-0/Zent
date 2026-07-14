@@ -1,4 +1,4 @@
-# Zent v2 - Finanzas para Estudiantes
+# Zent - Finanzas para Estudiantes
 
 Zent es una aplicación de control financiero diseñada específicamente para estudiantes de bachillerato. Esta versión introduce un sistema de diseño premium (negro/dorado), gestión completa de ingresos y gastos, gráficas avanzadas y control de presupuesto.
 
