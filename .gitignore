@@ -1,0 +1,5 @@
+# Rutas de exclusión del proyecto
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/

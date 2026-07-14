@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores para el Modo Oscuro -->
+    <color name="zent_background_dark">#0A0A0A</color>
+    <color name="zent_card_background_dark">#141414</color>
+    <color name="zent_primary_gold">#D4AF37</color>
+    <color name="zent_text_primary_dark">#FFFFFF</color>
+    <color name="zent_text_secondary_dark">#9E9E9E</color>
+    <color name="zent_borders_dividers_dark">#2A2A2A</color>
+    <color name="zent_button_text_dark">#000000</color>
+    <color name="zent_error_red">#CF6679</color>
+
+    <!-- Colores para el Modo Claro -->
+    <color name="zent_background_light">#FFFFFF</color>
+    <color name="zent_card_background_light">#F5F5F5</color>
+    <color name="zent_text_primary_light">#000000</color>
+    <color name="zent_text_secondary_light">#616161</color>
+    <color name="zent_borders_dividers_light">#E0E0E0</color>
+
+    <!-- Colores para Gráficas -->
+    <color name="chart_food">#FF6B6B</color>
+    <color name="chart_transport">#4ECDC4</color>
+    <color name="chart_leisure">#45B7D1</color>
+    <color name="chart_school">#96CEB4</color>
+    <color name="chart_other">#FFEAA7</color>
+
+    <!-- Colores Básicos -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
