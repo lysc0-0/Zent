@@ -1,5 +1,26 @@
-# Rutas de exclusión del proyecto
-/.gradle/
-/app/build/
-/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
-/build/
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio
+*.iml
+.idea/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+local.properties
+.idea/caches/
+.idea/iconloader.xml
+
+# Log files
+*.log
+
+# Captures and heap dumps
+*.capture
+*.hprof
+
+# Room Schemas
+/app/schemas/
